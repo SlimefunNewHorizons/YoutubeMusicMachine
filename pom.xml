@@ -44,7 +44,7 @@
         </dependency>
 
         <dependency>
-            <groupId>com.github.DrakesCraft-Labs</groupId>
+            <groupId>com.github.SlimefunNewHorizons</groupId>
             <artifactId>Slimefun4</artifactId>
             <version>v11.0-Drake-1.21.1-SNAPSHOT</version>
             <scope>provided</scope>
